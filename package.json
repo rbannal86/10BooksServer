@@ -12,6 +12,9 @@
     "knex": "^0.20.11",
     "pg": "^7.18.2"
   },
+  "engines": {
+    "node": "10.x"
+  },
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^7.1.0",
